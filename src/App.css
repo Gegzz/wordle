@@ -125,3 +125,7 @@ nav h1 {
 #disabled {
   background-color: #3a393c;
 }
+.h3 {
+  color: rgb(230, 9, 9);
+  font-size: 50px;
+}
