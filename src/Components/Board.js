@@ -47,7 +47,7 @@ function Board() {
         <Letter letterPos={1} attemptVal={5} />
         <Letter letterPos={2} attemptVal={5} />
         <Letter letterPos={3} attemptVal={5} />
-        <Letter letterPos={4} attemptVal={5 } />
+        <Letter letterPos={4} attemptVal={5} />
       </div>
     </div>
   );
